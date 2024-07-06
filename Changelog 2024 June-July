@@ -1,0 +1,52 @@
+[ PATCHES/MINOR UPDATES ]
+1 -- Fixed millisecond inaccuracies on all text that's formatted like (min:sec.ms) | 06-30-2024 | PATCH
+2 -- Fixed being able to finish runs after taking fall damage | 06-30-2024 | PATCH
+3 -- Improved floor collisions | 06-30-2024 | PATCH
+4 -- (Step up (not the move) is smoother) | 06-30-2024 | PATCH
+5 -- (Running off ledges no longer slows you down) | 06-30-2024 | PATCH
+6 -- Replaced placeholder fences with the actual model | 06-30-2024 | UPDATE
+7 -- Updated dormer vent model (thanks to radically) | 07-1-2024 | UPDATE
+8 -- UI Update | 07-1-2024 | UPDATE
+9 -- Added a singular ugly ass tarp on a fence | 07-1-2024 | UPDATE
+10 -- Added fall damage and rolling sounds | 07-1-2024 | UPDATE
+11 -- Fixed 2 time trial exploits | 07-1-2024 | PATCH
+12 -- Actually fixed 2 time trial exploits | 07-1-2024 | PATCH
+13 -- The "Ready, Set, Go!" labels no longer disappear when restarting a time trial before go fades out | 07-1-2024 | PATCH
+14 -- Changed the background image in the UI settings to only black [Update for Big Change #1] | 07-1-2024 | UPDATE
+15 -- Turned off shiftlock | 07-1-2024 | UPDATE
+16 -- Rolling takes less time | 07-2-2024 | PATCH/UPDATE
+17 -- Released Exordius (Time Trial) | 07-2-2024 | UPDATE
+18 -- Wallrun jump Animations | 07-2-2024 | UPDATE
+19 -- TicTac Added | 07-2-2024 | UPDATE
+20 -- New ledge grab animations | 07-2-2024 | UPDATE
+21 -- Nerfed TicTac [Patch for Line 19] | 07-2-2024 | PATCH
+22 -- Added ziplines | 07-3-2024 | UPDATE
+23 -- Added new time trial (Volatility) | 07-5-2024 | UPDATE
+
+[ BIG CHANGES ]
+{BIG CHANGE #1} | 07-2-2024
+-- Settings menu has been added (Press M) | UPDATE
+-- (press the apply button in the bottom left to save your settings) | UPDATE
+-- (currently it's not polished when opening or closing it, that will be changed later) | LEFTOVER (Working on it)
+{BIG CHANGE #2} | 07-2-2024
+-- Added more settings (Hold to wallclimb, torso visibility, & viewmodel transparency) | UPDATE
+-- Accessories now appear on the viewmodel | PATCH
+-- Early version of ledgehold added | UPDATE
+-- Map update | UPDATE
+-- 2 Builders joined the team: (duality & radically) | UPDATE
+-- Removed herobrine | PATCH/UPDATE
+{BIG CHANGE #3} | 07-3-2024
+-- Added 3 augments (currently unobtainable) | UPDATE
+-- Air movement changed (now gets weaker with more speed) | PATCH
+-- Soft landing added | UPDATE
+-- Updated raycasts to use the camera's lookvector instead of the model's | PATCH
+-- New setting: Effect intensity | UPDATE
+-- Skybox changed | PATCH/UPDATE
+(In future changelogs fury will not be documenting new settings or graphical changes)
+
+
+| Thanks For Reading |
+-- CREDITS
+{ Changelog Github By | Aiden
+{ Developers | Fury. Radically. Duality. Kitstopes
+{ Changelog Copied from #changelog Channel | JOIN DISCORD: https://discord.gg/vUapdq7v88 (Copy link & Paste on new browser page)
